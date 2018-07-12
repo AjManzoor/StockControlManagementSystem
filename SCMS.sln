@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCMS", "SCMS\SCMS.csproj", "{340050F6-A567-4291-B544-2832A4EEE8AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCSM.Business", "SCSM.Business\SCSM.Business.csproj", "{B1EA2855-61E2-4F24-8C44-9F9F4A936F2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCSM.Data", "SCSM.Data\SCSM.Data.csproj", "{097E600D-B45E-4CBA-A569-2C052AAC83FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{340050F6-A567-4291-B544-2832A4EEE8AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340050F6-A567-4291-B544-2832A4EEE8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340050F6-A567-4291-B544-2832A4EEE8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340050F6-A567-4291-B544-2832A4EEE8AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1EA2855-61E2-4F24-8C44-9F9F4A936F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1EA2855-61E2-4F24-8C44-9F9F4A936F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1EA2855-61E2-4F24-8C44-9F9F4A936F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1EA2855-61E2-4F24-8C44-9F9F4A936F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{097E600D-B45E-4CBA-A569-2C052AAC83FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097E600D-B45E-4CBA-A569-2C052AAC83FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{097E600D-B45E-4CBA-A569-2C052AAC83FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097E600D-B45E-4CBA-A569-2C052AAC83FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

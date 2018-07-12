@@ -1,0 +1,30 @@
+c:\users\ajmal\documents\visual studio 2015\Projects\SCMS\SCMS\bin\Debug\SCMS.exe.config
+c:\users\ajmal\documents\visual studio 2015\Projects\SCMS\SCMS\bin\Debug\SCMS.exe
+c:\users\ajmal\documents\visual studio 2015\Projects\SCMS\SCMS\bin\Debug\SCMS.pdb
+c:\users\ajmal\documents\visual studio 2015\Projects\SCMS\SCMS\bin\Debug\SCSM.Business.exe
+c:\users\ajmal\documents\visual studio 2015\Projects\SCMS\SCMS\bin\Debug\SCSM.Data.exe
+c:\users\ajmal\documents\visual studio 2015\Projects\SCMS\SCMS\bin\Debug\MySql.Data.dll
+c:\users\ajmal\documents\visual studio 2015\Projects\SCMS\SCMS\bin\Debug\SCSM.Business.pdb
+c:\users\ajmal\documents\visual studio 2015\Projects\SCMS\SCMS\bin\Debug\SCSM.Data.pdb
+c:\users\ajmal\documents\visual studio 2015\Projects\SCMS\SCMS\bin\Debug\MySql.Data.xml
+c:\users\ajmal\documents\visual studio 2015\Projects\SCMS\SCMS\obj\Debug\SCMS.csprojResolveAssemblyReference.cache
+c:\users\ajmal\documents\visual studio 2015\Projects\SCMS\SCMS\obj\Debug\SCMS.Form1.resources
+c:\users\ajmal\documents\visual studio 2015\Projects\SCMS\SCMS\obj\Debug\SCMS.Properties.Resources.resources
+c:\users\ajmal\documents\visual studio 2015\Projects\SCMS\SCMS\obj\Debug\SCMS.csproj.GenerateResource.Cache
+c:\users\ajmal\documents\visual studio 2015\Projects\SCMS\SCMS\obj\Debug\SCMS.exe
+c:\users\ajmal\documents\visual studio 2015\Projects\SCMS\SCMS\obj\Debug\SCMS.pdb
+C:\Users\ajmal\Documents\340CT\SCMS\SCMS\obj\Debug\SCMS.csprojResolveAssemblyReference.cache
+C:\Users\ajmal\Documents\340CT\SCMS\SCMS\obj\Debug\SCMS.Form1.resources
+C:\Users\ajmal\Documents\340CT\SCMS\SCMS\obj\Debug\SCMS.Properties.Resources.resources
+C:\Users\ajmal\Documents\340CT\SCMS\SCMS\obj\Debug\SCMS.csproj.GenerateResource.Cache
+C:\Users\ajmal\Documents\340CT\SCMS\SCMS\bin\Debug\SCMS.exe.config
+C:\Users\ajmal\Documents\340CT\SCMS\SCMS\bin\Debug\SCMS.exe
+C:\Users\ajmal\Documents\340CT\SCMS\SCMS\bin\Debug\SCMS.pdb
+C:\Users\ajmal\Documents\340CT\SCMS\SCMS\bin\Debug\SCSM.Business.exe
+C:\Users\ajmal\Documents\340CT\SCMS\SCMS\bin\Debug\SCSM.Data.exe
+C:\Users\ajmal\Documents\340CT\SCMS\SCMS\bin\Debug\MySql.Data.dll
+C:\Users\ajmal\Documents\340CT\SCMS\SCMS\bin\Debug\SCSM.Business.pdb
+C:\Users\ajmal\Documents\340CT\SCMS\SCMS\bin\Debug\SCSM.Data.pdb
+C:\Users\ajmal\Documents\340CT\SCMS\SCMS\bin\Debug\MySql.Data.xml
+C:\Users\ajmal\Documents\340CT\SCMS\SCMS\obj\Debug\SCMS.exe
+C:\Users\ajmal\Documents\340CT\SCMS\SCMS\obj\Debug\SCMS.pdb

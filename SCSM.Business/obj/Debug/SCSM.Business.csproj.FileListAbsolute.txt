@@ -1,0 +1,20 @@
+c:\Users\ajmal\documents\visual studio 2015\Projects\SCMS\SCSM.Business\bin\Debug\SCSM.Business.exe.config
+c:\Users\ajmal\documents\visual studio 2015\Projects\SCMS\SCSM.Business\bin\Debug\SCSM.Business.exe
+c:\Users\ajmal\documents\visual studio 2015\Projects\SCMS\SCSM.Business\bin\Debug\SCSM.Business.pdb
+c:\Users\ajmal\documents\visual studio 2015\Projects\SCMS\SCSM.Business\bin\Debug\SCSM.Data.exe
+c:\Users\ajmal\documents\visual studio 2015\Projects\SCMS\SCSM.Business\bin\Debug\MySql.Data.dll
+c:\Users\ajmal\documents\visual studio 2015\Projects\SCMS\SCSM.Business\bin\Debug\SCSM.Data.pdb
+c:\Users\ajmal\documents\visual studio 2015\Projects\SCMS\SCSM.Business\bin\Debug\MySql.Data.xml
+c:\Users\ajmal\documents\visual studio 2015\Projects\SCMS\SCSM.Business\obj\Debug\SCSM.Business.csprojResolveAssemblyReference.cache
+c:\Users\ajmal\documents\visual studio 2015\Projects\SCMS\SCSM.Business\obj\Debug\SCSM.Business.exe
+c:\Users\ajmal\documents\visual studio 2015\Projects\SCMS\SCSM.Business\obj\Debug\SCSM.Business.pdb
+C:\Users\ajmal\Documents\340CT\SCMS\SCSM.Business\bin\Debug\SCSM.Business.exe.config
+C:\Users\ajmal\Documents\340CT\SCMS\SCSM.Business\bin\Debug\SCSM.Business.exe
+C:\Users\ajmal\Documents\340CT\SCMS\SCSM.Business\bin\Debug\SCSM.Business.pdb
+C:\Users\ajmal\Documents\340CT\SCMS\SCSM.Business\bin\Debug\SCSM.Data.exe
+C:\Users\ajmal\Documents\340CT\SCMS\SCSM.Business\bin\Debug\MySql.Data.dll
+C:\Users\ajmal\Documents\340CT\SCMS\SCSM.Business\bin\Debug\SCSM.Data.pdb
+C:\Users\ajmal\Documents\340CT\SCMS\SCSM.Business\bin\Debug\MySql.Data.xml
+C:\Users\ajmal\Documents\340CT\SCMS\SCSM.Business\obj\Debug\SCSM.Business.csprojResolveAssemblyReference.cache
+C:\Users\ajmal\Documents\340CT\SCMS\SCSM.Business\obj\Debug\SCSM.Business.exe
+C:\Users\ajmal\Documents\340CT\SCMS\SCSM.Business\obj\Debug\SCSM.Business.pdb

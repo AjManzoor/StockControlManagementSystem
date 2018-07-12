@@ -1,0 +1,16 @@
+c:\Users\ajmal\documents\visual studio 2015\Projects\SCMS\SCSM.Data\bin\Debug\SCSM.Data.exe.config
+c:\Users\ajmal\documents\visual studio 2015\Projects\SCMS\SCSM.Data\bin\Debug\SCSM.Data.exe
+c:\Users\ajmal\documents\visual studio 2015\Projects\SCMS\SCSM.Data\bin\Debug\SCSM.Data.pdb
+c:\Users\ajmal\documents\visual studio 2015\Projects\SCMS\SCSM.Data\bin\Debug\MySql.Data.dll
+c:\Users\ajmal\documents\visual studio 2015\Projects\SCMS\SCSM.Data\bin\Debug\MySql.Data.xml
+c:\Users\ajmal\documents\visual studio 2015\Projects\SCMS\SCSM.Data\obj\Debug\SCSM.Data.csprojResolveAssemblyReference.cache
+c:\Users\ajmal\documents\visual studio 2015\Projects\SCMS\SCSM.Data\obj\Debug\SCSM.Data.exe
+c:\Users\ajmal\documents\visual studio 2015\Projects\SCMS\SCSM.Data\obj\Debug\SCSM.Data.pdb
+C:\Users\ajmal\Documents\340CT\SCMS\SCSM.Data\bin\Debug\SCSM.Data.exe.config
+C:\Users\ajmal\Documents\340CT\SCMS\SCSM.Data\bin\Debug\SCSM.Data.exe
+C:\Users\ajmal\Documents\340CT\SCMS\SCSM.Data\bin\Debug\SCSM.Data.pdb
+C:\Users\ajmal\Documents\340CT\SCMS\SCSM.Data\bin\Debug\MySql.Data.dll
+C:\Users\ajmal\Documents\340CT\SCMS\SCSM.Data\bin\Debug\MySql.Data.xml
+C:\Users\ajmal\Documents\340CT\SCMS\SCSM.Data\obj\Debug\SCSM.Data.exe
+C:\Users\ajmal\Documents\340CT\SCMS\SCSM.Data\obj\Debug\SCSM.Data.pdb
+C:\Users\ajmal\Documents\340CT\SCMS\SCSM.Data\obj\Debug\SCSM.Data.csprojResolveAssemblyReference.cache
